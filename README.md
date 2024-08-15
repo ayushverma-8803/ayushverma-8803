@@ -7,7 +7,6 @@
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-brightgreen)](https://auth.geeksforgeeks.org/user/ayushvermagt08)
 
 **Email:** [aashiverma8008@gmail.com](mailto:aashiverma8008@gmail.com)  
-**Phone:** +91-9984799494  
 **Location:** Kanpur, India
 
 ## Education
